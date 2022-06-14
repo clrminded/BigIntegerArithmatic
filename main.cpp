@@ -6,6 +6,14 @@
  * @date 2021-11-07 
  *
  * Needs alot of work
+ *
+ * TASK:
+ * You can represent an integer with any number of digits by storing the integer as a linked 
+ * list of digits. In this assignment, you’ll design and implement a class for whole numbers 
+ * arithmetic in which a number is implemented as a linked list of integers. You are asked 
+ * to use doubly linked list as the internal data structure for the linked list of digits. 
+
+ 
  */
 
 #include "DoublyLinkedList.h"
